@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 
 -->
 
-- 💻 I work at a cloud infrastructure company, [Dash Cloud](https://dash-cloud.com/). We want to democratize GPU computing by making it affordable to everyone. We're growing fast (presence in 20+ data centers already and 10 team members!), so [let me know](mailto:jonathan@dash-cloud.com) if you'd like to join! Generous compensation and a lot of cool perks
+- 💻 I work at a cloud infrastructure company, [TensorDock](https://tensordock.com/). We democratize GPU computing by making expensive hardware that's only obtained via hardware purchases or 12-month commitments affordable to everyone. We're growing fast (presence in 20+ data centers already!), so [let me know](mailto:jonathan@tensordock.com) if you'd like to join! Generous compensation and a lot of cool perks
 - 🌱 I’m currently playing around with [Handshake](https://handshake.org/), [Skynet](https://siasky.net/), and [Named Data Networking](https://named-data.net/)
